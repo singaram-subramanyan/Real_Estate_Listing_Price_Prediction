@@ -8,7 +8,7 @@ Manmohanbabu Rupanagudi
 Singaram Subramanyan
 
 # Problem/Issue: 
-We intend to work on a Machine Learning project to predict a certain piece of real estate's listing price based features such as on the property's location, Square footage, and number of bedrooms.
+We intend to work on a Machine Learning project to predict a certain piece of real estate's listing price based on features such as the property's location, Square footage, and number of bedrooms.
 
 # Functionality: 
 The solution will be using data analysis to identify patterns to train an informed machine learning model trained on a dataset from kaggle that would predict the the estimated listing price of a piece of real estate. We also intend to use techniques such as feature engineering and hyperparameter tuning to improve the overall performance of the machine-learning model.
